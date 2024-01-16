@@ -16,8 +16,8 @@ cookies.ini
 lib/bin/cfg
 lib/bin/hdr
 lib/bin/pyld
-# config.js
-# log.txt
+config.js
+log.txt
 
 # npm
 package-lock.json
